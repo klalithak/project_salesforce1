@@ -1,0 +1,4 @@
+username = //*[@id='username']
+password = //*[@id='password']
+checkbox =//*[@id='rememberUn']
+loginbutton = //*[@id='Login']
